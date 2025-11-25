@@ -1,7 +1,5 @@
 ### The link to the advertisment video "https://drive.google.com/file/d/131zNjOcq6Xa5mJ2JTClENgh4tnh6HKJH/view?usp=drivesdk"
 
-Here is a **short, clean, ready-to-paste README.md** for your GitHub repo:
-
 ---
 
 # Cultfit – 4Ps Analysis & Repositioning
@@ -39,19 +37,8 @@ The PPT explores how Cultfit currently operates and presents a data-backed repos
 
 ---
 
-## 📁 Files
-
-* **Cultfit-Redefining-Indias-Fitness-Landscape.pptx** – Main project presentation.
-
----
-
 ## 📚 Purpose
 
 This project was created as part of academic coursework to demonstrate practical application of marketing frameworks and strategy development.
 
 ---
-
-If you want, I can also make:
-✔ an even shorter version
-✔ a more stylish/graphic README
-✔ a version with badges & preview images
