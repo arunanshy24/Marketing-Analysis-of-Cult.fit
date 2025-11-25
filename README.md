@@ -7,7 +7,9 @@
 ### Marketing Management Project
 
 **Course:** Marketing Management
+
 **Instructor:** Dr. Amit Shukla
+
 **Assignment:** Choose a brand, perform a 4Ps analysis, and propose a repositioning strategy.
 
 ---
